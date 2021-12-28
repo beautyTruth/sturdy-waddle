@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -5,7 +7,7 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
   min-height: 100vh;
   background-image: url("sunset-3325080_1920.jpg");
   background-position: center;
@@ -64,7 +66,7 @@ sup {
 .temp,
 .status {
   font-size: 60px;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 .temp {
@@ -109,7 +111,7 @@ span,
 .place {
   color: rgb(0, 228, 103);
   margin-left: 30px;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .place {
